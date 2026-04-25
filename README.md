@@ -12,8 +12,7 @@ This portfolio showcases DevOps projects focused on infrastructure provisioning,
 * Multi-container deployment on EC2 (ports 54321–54323)
 * One-command provisioning
 
-👉 https://github.com/YOUR-USERNAME/devops-cloud-infra-terraform-ansible
-
+👉 https://github.com/HighAvailabilityLowPatience/devops-cloud-infra-terraform-ansible.git
 ---
 
 ### 🔁 CI/CD Pipeline Automation
