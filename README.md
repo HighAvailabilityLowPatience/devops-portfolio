@@ -30,6 +30,19 @@ This portfolio showcases DevOps projects focused on infrastructure provisioning,
 * Automatic container restart on failure
 * Jenkins rebuild job
 
+Live Demonstration
+
+This system is integrated into a live environment where the self-healing behavior can be observed in real time.
+
+🌐 https://EmanuelJohnson.xyz
+
+What You Can Do
+Access the running application
+Simulate failure by interacting with the system
+Observe:
+Failure detection
+Automated recovery process
+
 👉https://github.com/HighAvailabilityLowPatience/devops-self-healing-infra.git
 ---
 
