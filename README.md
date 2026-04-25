@@ -21,8 +21,7 @@ This portfolio showcases DevOps projects focused on infrastructure provisioning,
 * Automated Docker build and deployment
 * SSH-based server updates
 
-👉 https://github.com/YOUR-USERNAME/devops-cicd-github-actions-docker
-
+👉 https://github.com/HighAvailabilityLowPatience/devops-cicd-github-actions-docker.git
 ---
 
 ### ♻️ Self-Healing Infrastructure
