@@ -33,3 +33,10 @@ This portfolio showcases DevOps projects focused on infrastructure provisioning,
 * Jenkins rebuild job
 
 👉 https://github.com/YOUR-USERNAME/devops-self-healing-infra
+
+ Key Capabilities
+Infrastructure as Code (Terraform)
+Configuration Management (Ansible)
+Containerization (Docker)
+CI/CD Automation (GitHub Actions)
+System Reliability & Recovery Engineering
