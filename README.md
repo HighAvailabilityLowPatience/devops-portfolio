@@ -34,7 +34,7 @@ Live Demonstration
 
 This system is integrated into a live environment where the self-healing behavior can be observed in real time.
 
-🌐 https://EmanuelJohnson.xyz
+🌐[ https://EmanuelJohnson.xyz](https://emmanueljohnson.xyz/demo)
 
 What You Can Do
 Access the running application
